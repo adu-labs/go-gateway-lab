@@ -10,7 +10,7 @@ documented decision and observable verification evidence.
 
 ## Status
 
-Private project bootstrap. The first runnable request path is scheduled for the
+Public project bootstrap. The first runnable request path is scheduled for the
 `M0: One correct request path` milestone.
 
 ## First vertical slice
@@ -92,7 +92,6 @@ exist.
 
 ## License
 
-The license will be selected and committed before this repository becomes
-public. Apache-2.0 is the current infrastructure-oriented candidate because it
-includes an express patent grant; the decision remains explicit and reversible
-until publication.
+Licensed under the [Apache License 2.0](LICENSE). The public-first development
+and licensing decision is recorded in
+[ADR-0002](docs/decisions/0002-public-first-apache-license.md).

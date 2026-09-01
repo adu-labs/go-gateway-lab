@@ -100,13 +100,15 @@ and whether the result changed a design decision.
 - Every milestone ends with a short retrospective: result, evidence, surprises,
   and revisions.
 
-## Publication gate
+## Public development and release gate
 
-The repository remains private until all of the following are true:
+The repository is developed publicly from its clean-room charter. Public
+visibility is evidence of an open process, not a production-readiness claim.
+The first tagged release is withheld until all of the following are true:
 
 - a new user can follow the quick start without private dependencies;
 - one end-to-end request path works and has deterministic tests;
-- the repository has an explicit license;
+- the repository remains covered by an explicit open-source license;
 - no commit exposes a real identity, employer email, secret, or non-public
   material;
 - README limitations match the implemented behavior;

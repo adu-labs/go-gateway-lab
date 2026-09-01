@@ -15,6 +15,7 @@ Proposed -> Accepted -> Superseded or Deprecated
 | ADR | Status | Decision |
 | --- | --- | --- |
 | [ADR-0001](0001-clean-room-request-path-first.md) | Accepted | Start with a clean-room request path |
+| [ADR-0002](0002-public-first-apache-license.md) | Accepted | Develop publicly under Apache-2.0 |
 
 ## Template
 
